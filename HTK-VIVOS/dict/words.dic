@@ -1,0 +1,443 @@
+002 haj1 .  .
+003 ba1 .  .
+004 bon5 .  .
+005 năm1 .  .
+006 ʂăw5 .  .
+007 băj4 .  .
+008 tam5 .  .
+009 cin5 .  .
+010 mɯəj2 .  .
+011 mɯəj2 mot6 .  .
+012 mɯəj2 haj1 .  .
+013 mɯəj2 ba1 .  .
+014 mɯəj2 bon5 .  .
+015 mɯəj2_lăm1 .  .
+016 mɯəj2 ʂăw5 .  .
+017 mɯəj2 băj4 .  .
+018 mɯəj2 tam5 .  .
+019 mɯəj2 cin5 .  .
+020 haj1 mɯəj1 .  .
+021 haj1 mɯəj1 mot5 .  .
+022 haj1 mɯəj1 haj1 .  .
+023 haj1 mɯəj1 ba1 .  .
+024 haj1 mɯəj1_tɯ1 .  .
+025 haj1 mɯəj1_lăm1 .  .
+026 haj1 mɯəj1 ʂăw5 .  .
+027 haj1 mɯəj1 băj4 .  .
+028 haj1 mɯəj1 tam5 .  .
+029 haj1 mɯəj1 cin5 .  .
+030 ba1_mɯəj1 .  .
+031 ba1 mɯəj1_mot5 .  .
+032 ba1 mɯəj1 haj1 .  .
+033 ba1 mɯəj1 ba1 .  .
+035 ba1 mɯəj1_lăm1 .  .
+037 ba1 mɯəj1 băj4 .  .
+038 ba1 mɯəj1 tam5 .  .
+039 ba1 mɯəj1 cin5 .  .
+040 bon5_mɯəj1 .  .
+041 bon5 mɯəj1 mot5 .  .
+042 bon5 mɯəj1 haj1 .  .
+043 bon5 mɯəj1 ba1 .  .
+044 bon5_mɯəj1 tɯ1 .  .
+046 bon5 mɯəj1 ʂăw5 .  .
+047 bon5 mɯəj1 băj4 .  .
+048 bon5 mɯəj1 tam5 .  .
+049 bon5 mɯəj1 cin5 .  .
+050 năm1_mɯəj1 .  .
+051 năm1_mɯəj1 mot5 .  .
+052 năm1_mɯəj1 haj1 .  .
+053 năm1_mɯəj1 ba1 .  .
+054 năm1_mɯəj1 tɯ1 .  .
+055 năm1_mɯəj1_lăm1 .  .
+056 năm1_mɯəj1 ʂăw5 .  .
+057 năm1_mɯəj1 băj4 .  .
+058 năm1_mɯəj1 tam5 .  .
+059 năm1_mɯəj1 cin5 .  .
+060 ʂăw5 mɯəj1 .  .
+061 ʂăw5 mɯəj1 mot5 .  .
+062 ʂăw5 mɯəj1 haj1 .  .
+063 ʂăw5 mɯəj1 ba1 .  .
+064 ʂăw5 mɯəj1_tɯ1 .  .
+065 ʂăw5 mɯəj1_lăm1 .  .
+066 ʂăw5 mɯəj1 ʂăw5 .  .
+067 ʂăw5 mɯəj1 băj4 .  .
+068 ʂăw5 mɯəj1 tam5 .  .
+069 ʂăw5 mɯəj1 cin5 .  .
+070 băj4 mɯəj1 .  .
+071 băj4 mɯəj1 mot5 .  .
+072 băj4 mɯəj1 haj1 .  .
+073 băj4 mɯəj1 ba1 .  .
+074 băj4 mɯəj1_tɯ1 .  .
+075 băj4 mɯəj1_lăm1 .  .
+076 băj4 mɯəj1 ʂăw5 .  .
+077 băj4 mɯəj1 băj4 .  .
+078 băj4 mɯəj1 tam5 .  .
+079 băj4 mɯəj1 cin5 .  .
+080 tam5 mɯəj1 .  .
+081 tam5 mɯəj1_mot5 .  .
+083 tam5 mɯəj1 ba1 .  .
+084 tam5 mɯəj1_tɯ1 .  .
+085 tam5 mɯəj1_lăm1 .  .
+086 tam5 mɯəj1 ʂăw5 .  .
+087 tam5 mɯəj1 băj4 .  .
+088 tam5 mɯəj1 tam5 .  .
+089 tam5 mɯəj1 cin5 .  .
+090 cin5_mɯəj1 .  .
+091 cin5 mɯəj1 mot5 .  .
+093 cin5 mɯəj1 ba1 .  .
+094 cin5_mɯəj1 tɯ1 .  .
+095 cin5 mɯəj1_lăm1 .  .
+096 cin5 mɯəj1 ʂăw5 .  .
+097 cin5_mɯəj1 băj4 .  .
+098 cin5 mɯəj1 tam5 .  .
+099 cin5 mɯəj1 cin5 .  .
+100 mot6_ʈăm1 .  .
+101 mot6 ʈăm1_liɲ1 mot6 .  .
+102 mot6 ʈăm1_liɲ1 haj1 .  .
+103 mot6 ʈăm1_liɲ1 ba1 .  .
+104 mot6 ʈăm1_liɲ1 bon5 .  .
+105 mot6 ʈăm1_liɲ1 năm1 .  .
+106 mot6 ʈăm1_liɲ1 ʂăw5 .  .
+107 mot6 ʈăm1_liɲ1 băj4 .  .
+108 mot6 ʈăm1_liɲ1 tam5 .  .
+109 mot6 ʈăm1_liɲ1 cin5 .  .
+110 mot6 ʈăm1_mɯəj2 .  .
+111 mot6_ʈăm1 mɯəj2 mot6 .  .
+113 mot6_ʈăm1 mɯəj2 ba1 .  .
+114 mot6_ʈăm1 mɯəj2 bon5 .  .
+115 mot6_ʈăm1 mɯəj2_lăm1 .  .
+116 mot6_ʈăm1 mɯəj2 ʂăw5 .  .
+117 mot6_ʈăm1 mɯəj2 băj4 .  .
+118 mot6_ʈăm1 mɯəj2_tam5 .  .
+120 mot6_ʈăm1 haj1 mɯəj1 .  .
+121 mot6_ʈăm1 haj1 mɯəj1 mot5 .  .
+122 mot6_ʈăm1 haj1 mɯəj1 haj1 .  .
+123 mot6_ʈăm1 haj1 mɯəj1 ba1 .  .
+124 mot6_ʈăm1 haj1 mɯəj1_tɯ1 .  .
+125 mot6_ʈăm1 haj1 mɯəj1_lăm1 .  .
+127 mot6_ʈăm1 haj1 mɯəj1 băj4 .  .
+128 mot6_ʈăm1 haj1 mɯəj1 tam5 .  .
+129 mot6_ʈăm1 haj1 mɯəj1 cin5 .  .
+130 mot6_ʈăm1 ba1_mɯəj1 .  .
+131 mot6_ʈăm1 ba1_mɯəj1 mot5 .  .
+132 mot6_ʈăm1 ba1_mɯəj1 haj1 .  .
+133 mot6_ʈăm1 ba1_mɯəj1 ba1 .  .
+134 mot6_ʈăm1 ba1_mɯəj1 tɯ1 .  .
+135 mot6_ʈăm1 ba1 mɯəj1_lăm1 .  .
+136 mot6_ʈăm1 ba1_mɯəj1 ʂăw5 .  .
+137 mot6_ʈăm1 ba1_mɯəj1 băj4 .  .
+139 mot6_ʈăm1 ba1_mɯəj1 cin5 .  .
+140 mot6_ʈăm1 bon5_mɯəj1 .  .
+141 mot6_ʈăm1 bon5 mɯəj1 mot5 .  .
+143 mot6_ʈăm1 bon5 mɯəj1 ba1 .  .
+144 mot6_ʈăm1 bon5_mɯəj1 tɯ1 .  .
+145 mot6_ʈăm1 bon5 mɯəj1_lăm1 .  .
+146 mot6_ʈăm1 bon5 mɯəj1 ʂăw5 .  .
+148 mot6_ʈăm1 bon5_mɯəj1 tam5 .  .
+149 mot6_ʈăm1 bon5 mɯəj1 cin5 .  .
+150 mot6_ʈăm1 năm1_mɯəj1 .  .
+151 mot6 ʈăm1_năm1_mɯəj1 mot5 .  .
+152 mot6 ʈăm1_năm1_mɯəj1 haj1 .  .
+153 mot6 ʈăm1_năm1_mɯəj1 ba1 .  .
+154 mot6 ʈăm1_năm1_mɯəj1 tɯ1 .  .
+155 mot6 ʈăm1_năm1_mɯəj1_lăm1 .  .
+156 mot6 ʈăm1_năm1_mɯəj1 ʂăw5 .  .
+157 mot6 ʈăm1_năm1_mɯəj1 băj4 .  .
+158 mot6 ʈăm1_năm1_mɯəj1 tam5 .  .
+159 mot6 ʈăm1_năm1_mɯəj1 cin5 .  .
+160 mot6_ʈăm1 ʂăw5_mɯəj1 .  .
+161 mot6_ʈăm1 ʂăw5 mɯəj1 mot5 .  .
+162 mot6_ʈăm1 ʂăw5 mɯəj1 haj1 .  .
+163 mot6_ʈăm1 ʂăw5 mɯəj1 ba1 .  .
+164 mot6_ʈăm1 ʂăw5_mɯəj1 tɯ1 .  .
+165 mot6_ʈăm1 ʂăw5 mɯəj1_lăm1 .  .
+166 mot6_ʈăm1 ʂăw5 mɯəj1 ʂăw5 .  .
+167 mot6_ʈăm1 ʂăw5_mɯəj1 băj4 .  .
+168 mot6_ʈăm1 ʂăw5 mɯəj1 tam5 .  .
+169 mot6_ʈăm1 ʂăw5 mɯəj1 cin5 .  .
+170 mot6_ʈăm1 băj4_mɯəj1 .  .
+171 mot6_ʈăm1 băj4 mɯəj1 mot5 .  .
+172 mot6_ʈăm1 băj4 mɯəj1 haj1 .  .
+173 mot6_ʈăm1 băj4 mɯəj1 ba1 .  .
+174 mot6_ʈăm1 băj4_mɯəj1 tɯ1 .  .
+176 mot6_ʈăm1 băj4 mɯəj1 ʂăw5 .  .
+177 mot6_ʈăm1 băj4_mɯəj1 băj4 .  .
+179 mot6_ʈăm1 băj4 mɯəj1 cin5 .  .
+180 mot6_ʈăm1 tam5_mɯəj1 .  .
+181 mot6_ʈăm1 tam5 mɯəj1_mot5 .  .
+182 mot6_ʈăm1 tam5 mɯəj1 haj1 .  .
+183 mot6_ʈăm1 tam5 mɯəj1 ba1 .  .
+184 mot6_ʈăm1 tam5 mɯəj1_tɯ1 .  .
+185 mot6_ʈăm1 tam5 mɯəj1_lăm1 .  .
+186 mot6_ʈăm1 tam5 mɯəj1 ʂăw5 .  .
+187 mot6_ʈăm1 tam5 mɯəj1 băj4 .  .
+188 mot6_ʈăm1 tam5 mɯəj1 tam5 .  .
+189 mot6_ʈăm1 tam5 mɯəj1 cin5 .  .
+190 mot6_ʈăm1 cin5_mɯəj1 .  .
+191 mot6_ʈăm1 cin5_mɯəj1 mot5 .  .
+192 mot6_ʈăm1 cin5_mɯəj1 haj1 .  .
+193 mot6_ʈăm1 cin5_mɯəj1 ba1 .  .
+195 mot6_ʈăm1 cin5 mɯəj1_lăm1 .  .
+197 mot6_ʈăm1 cin5_mɯəj1 băj4 .  .
+198 mot6_ʈăm1 cin5_mɯəj1 tam5 .  .
+199 mot6_ʈăm1 cin5_mɯəj1 cin5 .  .
+200 haj1 ʈăm1 .  .
+201 haj1 ʈăm1 liɲ1 mot6 .  .
+202 haj1 ʈăm1 liɲ1 haj1 .  .
+203 haj1 ʈăm1 liɲ1_ba1 .  .
+204 haj1 ʈăm1 liɲ1_bon5 .  .
+205 haj1 ʈăm1 liɲ1 năm1 .  .
+206 haj1 ʈăm1 liɲ1_ʂăw5 .  .
+207 haj1 ʈăm1 liɲ1_băj4 .  .
+208 haj1 ʈăm1 liɲ1_tam5 .  .
+209 haj1 ʈăm1 liɲ1 cin5 .  .
+210 haj1 ʈăm1 mɯəj2 .  .
+211 haj1 ʈăm1 mɯəj2 mot6 .  .
+212 haj1 ʈăm1 mɯəj2 haj1 .  .
+213 haj1 ʈăm1 mɯəj2 ba1 .  .
+214 haj1 ʈăm1 mɯəj2 bon5 .  .
+215 haj1 ʈăm1 mɯəj2_lăm1 .  .
+218 haj1 ʈăm1 mɯəj2_tam5 .  .
+219 haj1 ʈăm1 mɯəj2 cin5 .  .
+220 haj1 ʈăm1 haj1 mɯəj1 .  .
+221 haj1 ʈăm1 haj1 mɯəj1 mot5 .  .
+222 haj1 ʈăm1 haj1 mɯəj1 haj1 .  .
+223 haj1 ʈăm1 haj1 mɯəj1 ba1 .  .
+224 haj1 ʈăm1 haj1 mɯəj1_tɯ1 .  .
+225 haj1 ʈăm1 haj1 mɯəj1_lăm1 .  .
+226 haj1 ʈăm1 haj1 mɯəj1 ʂăw5 .  .
+227 haj1 ʈăm1 haj1 mɯəj1 băj4 .  .
+228 haj1 ʈăm1 haj1 mɯəj1 tam5 .  .
+229 haj1 ʈăm1 haj1 mɯəj1 cin5 .  .
+230 haj1 ʈăm1 ba1_mɯəj1 .  .
+231 haj1 ʈăm1 ba1_mɯəj1 mot5 .  .
+232 haj1 ʈăm1 ba1_mɯəj1 haj1 .  .
+233 haj1 ʈăm1 ba1_mɯəj1 ba1 .  .
+234 haj1 ʈăm1 ba1_mɯəj1 tɯ1 .  .
+235 haj1 ʈăm1 ba1 mɯəj1_lăm1 .  .
+236 haj1 ʈăm1 ba1_mɯəj1 ʂăw5 .  .
+237 haj1 ʈăm1 ba1_mɯəj1 băj4 .  .
+238 haj1 ʈăm1 ba1_mɯəj1 tam5 .  .
+239 haj1 ʈăm1 ba1_mɯəj1 cin5 .  .
+240 haj1 ʈăm1 bon5_mɯəj1 .  .
+241 haj1 ʈăm1 bon5 mɯəj1 mot5 .  .
+242 haj1 ʈăm1 bon5_mɯəj1 haj1 .  .
+243 haj1 ʈăm1 bon5 mɯəj1 ba1 .  .
+244 haj1 ʈăm1 bon5_mɯəj1 tɯ1 .  .
+245 haj1 ʈăm1 bon5 mɯəj1_lăm1 .  .
+246 haj1 ʈăm1 bon5 mɯəj1 ʂăw5 .  .
+247 haj1 ʈăm1 bon5_mɯəj1 băj4 .  .
+248 haj1 ʈăm1 bon5_mɯəj1 tam5 .  .
+249 haj1 ʈăm1 bon5 mɯəj1 cin5 .  .
+250 haj1 ʈăm1 năm1_mɯəj1 .  .
+251 haj1 ʈăm1 năm1_mɯəj1 mot5 .  .
+252 haj1 ʈăm1 năm1_mɯəj1 haj1 .  .
+253 haj1 ʈăm1 năm1_mɯəj1 ba1 .  .
+255 haj1 ʈăm1 năm1_mɯəj1_lăm1 .  .
+256 haj1 ʈăm1 năm1_mɯəj1 ʂăw5 .  .
+257 haj1 ʈăm1 năm1_mɯəj1 băj4 .  .
+258 haj1 ʈăm1 năm1_mɯəj1 tam5 .  .
+259 haj1 ʈăm1 năm1_mɯəj1 cin5 .  .
+261 haj1 ʈăm1 ʂăw5 mɯəj1 mot5 .  .
+262 haj1 ʈăm1 ʂăw5 mɯəj1 haj1 .  .
+265 haj1 ʈăm1 ʂăw5 mɯəj1_lăm1 .  .
+266 haj1 ʈăm1 ʂăw5 mɯəj1 ʂăw5 .  .
+267 haj1 ʈăm1 ʂăw5_mɯəj1 băj4 .  .
+268 haj1 ʈăm1 ʂăw5 mɯəj1 tam5 .  .
+269 haj1 ʈăm1 ʂăw5 mɯəj1 cin5 .  .
+270 haj1 ʈăm1 băj4_mɯəj1 .  .
+271 haj1 ʈăm1 băj4 mɯəj1 mot5 .  .
+272 haj1 ʈăm1 băj4 mɯəj1 haj1 .  .
+273 haj1 ʈăm1 băj4 mɯəj1 ba1 .  .
+274 haj1 ʈăm1 băj4_mɯəj1 tɯ1 .  .
+275 haj1 ʈăm1 băj4 mɯəj1_lăm1 .  .
+276 haj1 ʈăm1 băj4 mɯəj1 ʂăw5 .  .
+277 haj1 ʈăm1 băj4_mɯəj1 băj4 .  .
+278 haj1 ʈăm1 băj4 mɯəj1 tam5 .  .
+279 haj1 ʈăm1 băj4 mɯəj1 cin5 .  .
+280 haj1 ʈăm1 tam5_mɯəj1 .  .
+281 haj1 ʈăm1 tam5 mɯəj1_mot5 .  .
+282 haj1 ʈăm1 tam5 mɯəj1 haj1 .  .
+283 haj1 ʈăm1 tam5 mɯəj1 ba1 .  .
+284 haj1 ʈăm1 tam5 mɯəj1_tɯ1 .  .
+285 haj1 ʈăm1 tam5 mɯəj1_lăm1 .  .
+286 haj1 ʈăm1 tam5 mɯəj1 ʂăw5 .  .
+287 haj1 ʈăm1 tam5 mɯəj1 băj4 .  .
+288 haj1 ʈăm1 tam5 mɯəj1 tam5 .  .
+289 haj1 ʈăm1 tam5 mɯəj1 cin5 .  .
+290 haj1 ʈăm1 cin5_mɯəj1 .  .
+292 haj1 ʈăm1 cin5_mɯəj1 haj1 .  .
+293 haj1 ʈăm1 cin5_mɯəj1 ba1 .  .
+295 haj1 ʈăm1 cin5 mɯəj1_lăm1 .  .
+297 haj1 ʈăm1 cin5_mɯəj1 băj4 .  .
+298 haj1 ʈăm1 cin5_mɯəj1 tam5 .  .
+299 haj1 ʈăm1 cin5_mɯəj1 cin5 .  .
+300 ba1 ʈăm1 .  .
+R002 xoŋ͡m1 ɑr xoŋ͡m1 haj1 .  .
+R006 xoŋ͡m1 ɑr xoŋ͡m1 ʂăw5 .  .
+R007 xoŋ͡m1 ɑr xoŋ͡m1 băj4 .  .
+R011 xoŋ͡m1 ɑr mɯəj2 mot6 .  .
+R012 xoŋ͡m1 ɑr mɯəj2 haj1 .  .
+R013 xoŋ͡m1 ɑr mɯəj2 ba1 .  .
+R015 xoŋ͡m1 ɑr mɯəj2_lăm1 .  .
+R017 xoŋ͡m1 ɑr mɯəj2 băj4 .  .
+R018 xoŋ͡m1 ɑr mɯəj2_tam5 .  .
+R019 xoŋ͡m1 ɑr mɯəj2 cin5 .  .
+R020 xoŋ͡m1 ɑr haj1 mɯəj1 .  .
+R022 xoŋ͡m1 ɑr haj1 mɯəj1 haj1 .  .
+R023 xoŋ͡m1 ɑr haj1 mɯəj1 ba1 .  .
+R024 xoŋ͡m1 ɑr haj1 mɯəj1_tɯ1 .  .
+R026 xoŋ͡m1 ɑr haj1 mɯəj1 ʂăw5 .  .
+R027 xoŋ͡m1 ɑr haj1 mɯəj1 băj4 .  .
+R028 xoŋ͡m1 ɑr haj1 mɯəj1 tam5 .  .
+R029 xoŋ͡m1 ɑr haj1 mɯəj1 cin5 .  .
+R030 xoŋ͡m1 ɑr ba1_mɯəj1 .  .
+R031 xoŋ͡m1 ɑr ba1_mɯəj1 mot5 .  .
+R032 xoŋ͡m1 ɑr ba1_mɯəj1 haj1 .  .
+R033 xoŋ͡m1 ɑr ba1_mɯəj1 ba1 .  .
+R035 xoŋ͡m1 ɑr ba1 mɯəj1_lăm1 .  .
+R036 xoŋ͡m1 ɑr ba1_mɯəj1 ʂăw5 .  .
+R037 xoŋ͡m1 ɑr ba1_mɯəj1 băj4 .  .
+R038 xoŋ͡m1 ɑr ba1_mɯəj1 tam5 .  .
+R040 xoŋ͡m1 ɑr bon5_mɯəj1 .  .
+R041 xoŋ͡m1 ɑr bon5_mɯəj1 mot5 .  .
+R042 xoŋ͡m1 ɑr bon5_mɯəj1 haj1 .  .
+R043 xoŋ͡m1 ɑr bon5_mɯəj1 ba1 .  .
+R044 xoŋ͡m1 ɑr bon5_mɯəj1 tɯ1 .  .
+R045 xoŋ͡m1 ɑr bon5 mɯəj1_lăm1 .  .
+R046 xoŋ͡m1 ɑr bon5_mɯəj1 ʂăw5 .  .
+R050 xoŋ͡m1 ɑr năm1_mɯəj1 .  .
+R051 xoŋ͡m1 ɑr năm1_mɯəj1 mot5 .  .
+R054 xoŋ͡m1 ɑr năm1_mɯəj1 tɯ1 .  .
+R056 xoŋ͡m1 ɑr năm1_mɯəj1 ʂăw5 .  .
+R058 xoŋ͡m1 ɑr năm1_mɯəj1 tam5 .  .
+R059 xoŋ͡m1 ɑr năm1_mɯəj1 cin5 .  .
+R061 xoŋ͡m1 ɑr ʂăw5 mɯəj1 mot5 .  .
+R063 xoŋ͡m1 ɑr ʂăw5 mɯəj1 ba1 .  .
+R064 xoŋ͡m1 ɑr ʂăw5_mɯəj1 tɯ1 .  .
+R065 xoŋ͡m1 ɑr ʂăw5 mɯəj1_lăm1 .  .
+R066 xoŋ͡m1 ɑr ʂăw5 mɯəj1 ʂăw5 .  .
+R068 xoŋ͡m1 ɑr ʂăw5 mɯəj1 tam5 .  .
+R071 xoŋ͡m1 ɑr băj4_mɯəj1 mot5 .  .
+R072 xoŋ͡m1 ɑr băj4_mɯəj1 haj1 .  .
+R074 xoŋ͡m1 ɑr băj4_mɯəj1 tɯ1 .  .
+R076 xoŋ͡m1 ɑr băj4_mɯəj1 ʂăw5 .  .
+R077 xoŋ͡m1 ɑr băj4_mɯəj1 băj4 .  .
+R078 xoŋ͡m1 ɑr băj4_mɯəj1 tam5 .  .
+R081 xoŋ͡m1 ɑr tam5 mɯəj1_mot5 .  .
+R082 xoŋ͡m1 ɑr tam5 mɯəj1 haj1 .  .
+R083 xoŋ͡m1 ɑr tam5 mɯəj1 ba1 .  .
+R084 xoŋ͡m1 ɑr tam5_mɯəj1 tɯ1 .  .
+R086 xoŋ͡m1 ɑr tam5 mɯəj1 ʂăw5 .  .
+R087 xoŋ͡m1 ɑr tam5_mɯəj1 băj4 .  .
+R088 xoŋ͡m1 ɑr tam5 mɯəj1 tam5 .  .
+R090 xoŋ͡m1 ɑr cin5_mɯəj1 .  .
+R091 xoŋ͡m1 ɑr cin5_mɯəj1 mot5 .  .
+R092 xoŋ͡m1 ɑr cin5_mɯəj1 haj1 .  .
+R093 xoŋ͡m1 ɑr cin5_mɯəj1 ba1 .  .
+R094 xoŋ͡m1 ɑr cin5_mɯəj1 tɯ1 .  .
+R099 xoŋ͡m1 ɑr cin5_mɯəj1 cin5 .  .
+R100 ɑr mot6_ʈăm1 .  .
+R101 ɑr mot6 ʈăm1_liɲ1 mot6 .  .
+R102 ɑr mot6 ʈăm1_liɲ1 haj1 .  .
+R104 ɑr mot6 ʈăm1_liɲ1 bon5 .  .
+R106 ɑr mot6_ʈăm1 liɲ1_ʂăw5 .  .
+R108 ɑr mot6_ʈăm1 liɲ1_tam5 .  .
+R109 ɑr mot6 ʈăm1_liɲ1 cin5 .  .
+R113 ɑr mot6_ʈăm1 mɯəj2 ba1 .  .
+R114 ɑr mot6_ʈăm1 mɯəj2 bon5 .  .
+R117 ɑr mot6_ʈăm1 mɯəj2 băj4 .  .
+R118 ɑr mot6_ʈăm1 mɯəj2_tam5 .  .
+R120 ɑr mot6_ʈăm1 haj1 mɯəj1 .  .
+R121 ɑr mot6_ʈăm1 haj1 mɯəj1 mot5 .  .
+R123 ɑr mot6_ʈăm1 haj1 mɯəj1 ba1 .  .
+R124 ɑr mot6_ʈăm1 haj1 mɯəj1_tɯ1 .  .
+R126 ɑr mot6_ʈăm1 haj1 mɯəj1 ʂăw5 .  .
+R127 ɑr mot6_ʈăm1 haj1 mɯəj1 băj4 .  .
+R128 ɑr mot6_ʈăm1 haj1 mɯəj1 tam5 .  .
+R129 ɑr mot6_ʈăm1 haj1 mɯəj1 cin5 .  .
+R130 ɑr mot6_ʈăm1 ba1_mɯəj1 .  .
+R131 ɑr mot6_ʈăm1 ba1_mɯəj1 mot5 .  .
+R134 ɑr mot6_ʈăm1 ba1_mɯəj1 tɯ1 .  .
+R135 ɑr mot6_ʈăm1 ba1 mɯəj1_lăm1 .  .
+R136 ɑr mot6_ʈăm1 ba1_mɯəj1 ʂăw5 .  .
+R138 ɑr mot6_ʈăm1 ba1_mɯəj1 tam5 .  .
+R139 ɑr mot6_ʈăm1 ba1_mɯəj1 cin5 .  .
+R140 ɑr mot6_ʈăm1 bon5_mɯəj1 .  .
+R142 ɑr mot6_ʈăm1 bon5_mɯəj1 haj1 .  .
+R143 ɑr mot6_ʈăm1 bon5 mɯəj1 ba1 .  .
+R144 ɑr mot6_ʈăm1 bon5_mɯəj1 tɯ1 .  .
+R146 ɑr mot6_ʈăm1 bon5 mɯəj1 ʂăw5 .  .
+R148 ɑr mot6_ʈăm1 bon5_mɯəj1 tam5 .  .
+R149 ɑr mot6_ʈăm1 bon5 mɯəj1 cin5 .  .
+R150 ɑr mot6_ʈăm1 năm1_mɯəj1 .  .
+R151 ɑr mot6_ʈăm1_năm1_mɯəj1 mot5 .  .
+R153 ɑr mot6_ʈăm1 năm1_mɯəj1 ba1 .  .
+R154 ɑr mot6_ʈăm1_năm1_mɯəj1 tɯ1 .  .
+R155 ɑr mot6_ʈăm1_năm1_mɯəj1_lăm1 .  .
+R159 ɑr mot6_ʈăm1_năm1_mɯəj1 cin5 .  .
+R160 ɑr mot6_ʈăm1 ʂăw5_mɯəj1 .  .
+R162 ɑr mot6_ʈăm1 ʂăw5 mɯəj1 haj1 .  .
+R164 ɑr mot6_ʈăm1 ʂăw5_mɯəj1 tɯ1 .  .
+R166 ɑr mot6_ʈăm1 ʂăw5 mɯəj1 ʂăw5 .  .
+R167 ɑr mot6_ʈăm1 ʂăw5_mɯəj1 băj4 .  .
+R168 ɑr mot6_ʈăm1 ʂăw5 mɯəj1 tam5 .  .
+R169 ɑr mot6_ʈăm1 ʂăw5 mɯəj1 cin5 .  .
+R171 ɑr mot6_ʈăm1 băj4 mɯəj1 mot5 .  .
+R172 ɑr mot6_ʈăm1 băj4 mɯəj1 haj1 .  .
+R173 ɑr mot6_ʈăm1 băj4 mɯəj1 ba1 .  .
+R174 ɑr mot6_ʈăm1 băj4_mɯəj1 tɯ1 .  .
+R176 ɑr mot6_ʈăm1 băj4 mɯəj1 ʂăw5 .  .
+R181 ɑr mot6_ʈăm1 tam5 mɯəj1_mot5 .  .
+R182 ɑr mot6_ʈăm1 tam5 mɯəj1 haj1 .  .
+R184 ɑr mot6_ʈăm1 tam5 mɯəj1_tɯ1 .  .
+R186 ɑr mot6_ʈăm1 tam5 mɯəj1 ʂăw5 .  .
+R187 ɑr mot6_ʈăm1 tam5 mɯəj1 băj4 .  .
+R188 ɑr mot6_ʈăm1 tam5 mɯəj1 tam5 .  .
+R190 ɑr mot6_ʈăm1 cin5_mɯəj1 .  .
+R191 ɑr mot6_ʈăm1 cin5_mɯəj1 mot5 .  .
+R192 ɑr mot6_ʈăm1 cin5_mɯəj1 haj1 .  .
+R193 ɑr mot6_ʈăm1 cin5_mɯəj1 ba1 .  .
+R194 ɑr mot6_ʈăm1 cin5_mɯəj1 tɯ1 .  .
+R196 ɑr mot6_ʈăm1 cin5_mɯəj1 ʂăw5 .  .
+R197 ɑr mot6_ʈăm1 cin5_mɯəj1 băj4 .  .
+R198 ɑr mot6_ʈăm1 cin5_mɯəj1 tam5 .  .
+R199 ɑr mot6_ʈăm1 cin5_mɯəj1 cin5 .  .
+R200 ɑr haj1 ʈăm1 .  .
+T001 xoŋ͡m1 ti xoŋ͡m1 mot6 .  .
+T002 xoŋ͡m1 ti xoŋ͡m1 haj1 .  .
+T003 xoŋ͡m1 ti xoŋ͡m1 ba1 .  .
+T005 xoŋ͡m1 ti xoŋ͡m1 năm1 .  .
+T006 xoŋ͡m1 ti xoŋ͡m1 ʂăw5 .  .
+T008 xoŋ͡m1 ti xoŋ͡m1 tam5 .  .
+T009 xoŋ͡m1 ti xoŋ͡m1 cin5 .  .
+T010 xoŋ͡m1 ti mɯəj2 .  .
+T012 xoŋ͡m1 ti mɯəj2 haj1 .  .
+T013 xoŋ͡m1 ti mɯəj2 ba1 .  .
+T014 xoŋ͡m1 ti mɯəj2 bon5 .  .
+T015 xoŋ͡m1 ti mɯəj2_lăm1 .  .
+T018 xoŋ͡m1 ti mɯəj2_tam5 .  .
+T020 xoŋ͡m1 ti haj1 mɯəj1 .  .
+T021 xoŋ͡m1 ti haj1 mɯəj1 mot5 .  .
+T022 xoŋ͡m1 ti haj1 mɯəj1 haj1 .  .
+T023 xoŋ͡m1 ti haj1 mɯəj1 ba1 .  .
+T025 xoŋ͡m1 ti haj1 mɯəj1_lăm1 .  .
+T026 xoŋ͡m1 ti haj1 mɯəj1 ʂăw5 .  .
+T027 xoŋ͡m1 ti haj1 mɯəj1 băj4 .  .
+T028 xoŋ͡m1 ti haj1 mɯəj1 tam5 .  .
+T029 xoŋ͡m1 ti haj1 mɯəj1 cin5 .  .
+T030 xoŋ͡m1 ti ba1_mɯəj1 .  .
+T031 xoŋ͡m1 ti ba1_mɯəj1 mot5 .  .
+T032 xoŋ͡m1 ti ba1_mɯəj1 haj1 .  .
+T033 xoŋ͡m1 ti ba1_mɯəj1 ba1 .  .
+T035 xoŋ͡m1 ti ba1 mɯəj1_lăm1 .  .
+T036 xoŋ͡m1 ti ba1_mɯəj1 ʂăw5 .  .
+T037 xoŋ͡m1 ti ba1_mɯəj1 băj4 .  .
+T038 xoŋ͡m1 ti ba1_mɯəj1 tam5 .  .
+T041 xoŋ͡m1 ti bon5_mɯəj1 mot5 .  .
+T042 xoŋ͡m1 ti bon5_mɯəj1 haj1 .  .
+T043 xoŋ͡m1 ti bon5_mɯəj1 ba1 .  .
+T044 xoŋ͡m1 ti bon5_mɯəj1 tɯ1 .  .
+T045 xoŋ͡m1 ti bon5 mɯəj1_lăm1 .  .
+T048 xoŋ͡m1 ti bon5_mɯəj1 tam5 .  .
+T050 xoŋ͡m1 ti năm1_mɯəj1 .  .
