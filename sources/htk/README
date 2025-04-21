@@ -133,3 +133,5 @@ These systems range in complexity from simpler Gaussian mixture model
 based HMMs to more complex artificial neural network based systems. 
 The RM recipe is located in samples/RMHTK directory and is documented 
 as a part of tutorial chapter in the HTK book.
+
+(base) celsius@celsius-System-Product-Name:~/Documents/NLP/htk/sources/htk/samples/HTKDemo$ export PATH=/home/celsius/Documents/NLP/htk/sources/htk/HTKTools:/home/celsius/Documents/NLP/htk/sources/htk/HLMTools:$PATH
